@@ -6,31 +6,34 @@
 
 ## About Bijective Labs
 
-Bijective Labs is a technology company that builds trading software for crypto. We build a
-self-hosted operating platform for teams that trade with their own strategies, from funds and
-proprietary desks to smaller firms, and we publish open-source tools and research from the same
-engineering work.
+Bijective Labs builds trading software for crypto: for individual traders, trading firms and
+proprietary desks that trade with their own strategies. The idea is simple. You spend your time on
+your edge, and rely on the software underneath it.
 
-We build our own execution and data engine. No third-party trading engine sits in the runtime,
-because we do not ship what we cannot debug to its root cause ourselves.
+We start from research, not code. An idea stays a hypothesis until the evidence says otherwise,
+and every significant decision is written down, with its alternatives, before anything is built.
 
-Everything we build runs on our users' own infrastructure. No data leaves it, and keys,
-strategies and results stay with the people who own them.
+What we build is self-hosted: it runs on your infrastructure, not ours.
 
 ## Our vision
 
-To become the operational backbone a crypto trading team relies on: the platform that turns a
-capable strategy into a trustworthy operation.
+To be the platform crypto traders build their operations on.
 
 ## Our mission
 
-To give trading teams confidence that their strategies run on a platform designed to reduce
-operational risk, detect problems early, contain failures and recover predictably. We build the
-engine and the operational layer together, so a team can spend its time on strategy instead of
-months of infrastructure.
+To give every trader and trading team operational confidence: software designed to reduce
+operational risk, detect problems early, contain failures and support recovery, kept current
+through updates and backed by support.
 
-It is a design promise, not an outcome promise. We reduce the risk within the platform's control
-and make failure survivable; we do not claim to prevent every loss.
+That describes how we engineer, not an outcome we promise. We do not control markets, exchanges or
+strategies, and we do not guarantee results.
+
+## What we hold to
+
+- **Honest by default.** We say what the software does, what it does not do, and when we do not know.
+- **Your edge stays yours.** Your strategy, keys and data stay under your control.
+- **Simple is a feature.** Every step we remove gives time back to you.
+- **Depth before breadth.** We support fewer venues and stand behind the quality of each one.
 
 ## What we build
 
@@ -52,5 +55,6 @@ education.<br>
 ## Links
 
 - Website: [bijectivelabs.dev](https://www.bijectivelabs.dev)
+- About: [bijectivelabs.dev/about](https://www.bijectivelabs.dev/about)
 - Docs: [docs.bijectivelabs.dev](https://docs.bijectivelabs.dev)
 - Contact: [bijectivelabs.dev/contact](https://www.bijectivelabs.dev/contact)
