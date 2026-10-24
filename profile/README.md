@@ -42,10 +42,11 @@ The self-hosted operating platform for crypto trading: market data, execution, p
 and an operator cockpit in one system. In active development, with early access by invitation.<br>
 [bijectivelabs.dev](https://www.bijectivelabs.dev)
 
-**trading-research-agents**<br>
+**TRA**<br>
 Open-source autonomous trading agents for crypto. Language models propose a trade; fixed, tested
-rules compute every figure, size the position and decide whether an order goes out. MIT license.<br>
-[github.com/BijectiveLabs/trading-research-agents](https://github.com/BijectiveLabs/trading-research-agents)
+rules compute every figure, size the position and decide whether an order goes out. MIT license.
+`pip install bitra`, then `tra`.<br>
+[github.com/BijectiveLabs/bitra](https://github.com/BijectiveLabs/bitra)
 
 **Research**<br>
 Strategy studies, market findings and failure analysis from our research work, published for
