@@ -6,9 +6,9 @@
 
 ## About Bijective Labs
 
-Bijective Labs builds trading software for crypto: for individual traders, trading firms and
-proprietary desks that trade with their own strategies. The idea is simple. You spend your time on
-your edge, and rely on the software underneath it.
+Bijective Labs builds open-source trading software for crypto, for traders and firms that trade
+with their own strategies. The idea is simple. You spend your time on your edge, and rely on the
+software underneath it.
 
 We start from research, not code. An idea stays a hypothesis until the evidence says otherwise,
 and every significant decision is written down, with its alternatives, before anything is built.
@@ -17,11 +17,11 @@ What we build is self-hosted: it runs on your infrastructure, not ours.
 
 ## Our vision
 
-To be the platform crypto traders build their operations on.
+To be the open-source platform crypto traders and firms build their operations on.
 
 ## Our mission
 
-To give every trader and trading team operational confidence: software designed to reduce
+To give every trader and firm operational confidence: software designed to reduce
 operational risk, detect problems early, contain failures and support recovery, kept current
 through updates and backed by support.
 
@@ -39,7 +39,8 @@ strategies, and we do not guarantee results.
 
 **Bijective Platform**<br>
 The self-hosted operating platform for crypto trading: market data, execution, portfolio control
-and an operator cockpit in one system. In active development, with early access by invitation.<br>
+and an operator cockpit in one system. Its core will be open source. In active development, with
+early access by invitation.<br>
 [bijectivelabs.dev](https://www.bijectivelabs.dev)
 
 **TRA**<br>
