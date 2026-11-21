@@ -40,10 +40,10 @@ strategies, and we do not guarantee results.
 
 **Bijective Platform**<br>
 The self-hosted operating platform for multi-market, multi-asset trading: market data, execution,
-risk, portfolio control and an operator cockpit in one system. The venue and adapter model is
+risk, portfolio control and an operator console in one system. The venue and adapter model is
 separate from the core, so support can extend across asset classes as integrations mature. Its
 core will be open source. In active development, with early access by invitation.<br>
-[bijectivelabs.dev](https://www.bijectivelabs.dev)
+[bijectivelabs.dev/bijective](https://www.bijectivelabs.dev/bijective)
 
 **TRA**<br>
 Open-source autonomous trading agents for supported markets. Language models propose a trade;
