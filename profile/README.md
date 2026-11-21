@@ -6,8 +6,9 @@
 
 ## About Bijective Labs
 
-Bijective Labs builds open-source trading software for crypto, for traders and firms that trade
-with their own strategies. The idea is simple. You spend your time on your edge, and rely on the
+Bijective Labs builds open-source trading software across markets and asset classes, for traders
+and firms that trade with their own strategies. Our platform uses a venue-independent market, risk
+and execution model. The idea is simple. You spend your time on your edge, and rely on the
 software underneath it.
 
 We start from research, not code. An idea stays a hypothesis until the evidence says otherwise,
@@ -17,7 +18,7 @@ What we build is self-hosted: it runs on your infrastructure, not ours.
 
 ## Our vision
 
-To be the open-source platform crypto traders and firms build their operations on.
+To be the open-source platform traders and firms use to operate across markets and asset classes.
 
 ## Our mission
 
@@ -38,14 +39,16 @@ strategies, and we do not guarantee results.
 ## What we build
 
 **Bijective Platform**<br>
-The self-hosted operating platform for crypto trading: market data, execution, portfolio control
-and an operator cockpit in one system. Its core will be open source. In active development, with
-early access by invitation.<br>
+The self-hosted operating platform for multi-market, multi-asset trading: market data, execution,
+risk, portfolio control and an operator cockpit in one system. The venue and adapter model is
+separate from the core, so support can extend across asset classes as integrations mature. Its
+core will be open source. In active development, with early access by invitation.<br>
 [bijectivelabs.dev](https://www.bijectivelabs.dev)
 
 **TRA**<br>
-Open-source autonomous trading agents for crypto. Language models propose a trade; fixed, tested
-rules compute every figure, size the position and decide whether an order goes out. MIT license.
+Open-source autonomous trading agents for supported markets. Language models propose a trade;
+fixed, tested rules compute every figure, size the position and decide whether an order goes out.
+MIT license.
 `pip install bitra`, then `tra`.<br>
 [github.com/BijectiveLabs/bitra](https://github.com/BijectiveLabs/bitra)
 
